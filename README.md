@@ -4,7 +4,7 @@
     👋 Hey, I'm Siddharth Narela
   </span>
 </h1>
-<h3 align="center" style="color: #555;">A Passionate Full-Stack Developer From India 🇮🇳</h3>
+<h3 align="center" style="color: #555;">A Passionate Developer From India 🇮🇳</h3>
 
 <!-- Introductory Animation -->
 <p align="center">
